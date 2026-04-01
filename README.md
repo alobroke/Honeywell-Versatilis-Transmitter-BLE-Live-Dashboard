@@ -5,7 +5,7 @@ Honeywell Versatilis Transmitter (HVT100) over Bluetooth Low Energy (BLE),
 implementing all five commands defined in the official BLE Communication Protocol
 specification (v1.0, 28-Jan-2026).
 
----
+
 
 ## Project Overview
 
@@ -18,7 +18,7 @@ This project connects to the sensor directly from a Windows PC via a TP-Link BT 
 USB adapter, decodes the proprietary binary BLE payload per the official protocol
 specification, and displays all sensor values on a live web dashboard.
 
----
+
 
 ## Hardware Requirements
 
